@@ -1,0 +1,25 @@
+**
+Upgrade pip:
+pip install --upgrade pip
+
+**
+1. Virtual Environment:
+python3 -m venv env
+
+**
+2. Install Django:
+pip install django
+
+**
+3. Start Django project:
+django-admin startproject myproject
+
+**
+4. Run dev. server:
+python manage.py runserver xxxx
+
+**
+5. Start Django app:
+django-admin startapp boards
+
+
